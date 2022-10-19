@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prince9084yadav
 - 👀 I’m interested in ...**Web Development** 
 - 🌱 I’m currently learning ...**HTML,CSS,Js**
-- 💞️ I’m looking to collaborate on ...####Github
+- 💞️ I’m looking to collaborate on ...Full Stack Development Projects
 - 📫 How to reach me ..._princeyadav28012002@gmail.com_
 
 <!---
